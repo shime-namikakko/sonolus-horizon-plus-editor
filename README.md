@@ -1,3 +1,3 @@
 # Sonolus Horizon Editor
 
-https://horizon-plus-editor.sonolus.com
+https://horizon-editor.sonolus.com/plus
